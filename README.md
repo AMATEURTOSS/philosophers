@@ -4,4 +4,4 @@ philosophers는 식사하는 철학자 문제를 해결하는 프로젝트입니
 
 # grade
 
-## :white_check_mark: 100/100
+:white_check_mark: 100/100
